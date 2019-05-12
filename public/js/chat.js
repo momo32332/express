@@ -1,0 +1,1 @@
+$('tr.messageInput input').size()!=0
